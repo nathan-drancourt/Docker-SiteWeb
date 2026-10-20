@@ -21,7 +21,7 @@ L’objectif est de comprendre les bases de la conteneurisation et de mettre en 
 1. Cloner ce dépôt :
    ```bash
    git clone https://github.com/nathan-drancourt/Docker-SiteWeb.git
-   cd Docker-SiteWeb/site
+   cd Docker-SiteWeb/site-web
 2. Construire l'image Docker :
    ```bash
    docker build -t mon-site-docker .
