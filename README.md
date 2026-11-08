@@ -1,4 +1,6 @@
 # 🚀 Projet Docker – Site Web Personnel
+
+![Aperçu du projet Docker-SiteWeb](docs/banner.png)
 #Docker #NGINX #DevOps #Virtualisation #Conteneurisation #IT
 
 ## 📌 Description
